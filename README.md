@@ -29,3 +29,24 @@ Output:
   }
 }
 ```
+
+Supported platforms:
+
+* WooCommerce (Wordpress)
+* BuddyPress (Wordpress)
+* Wordpress
+* Oracle Service Cloud
+* Loja Integrada
+* Wix
+* Web2py
+* Magento
+* VTex
+* OpenCart
+* Hybris
+* Drupal
+* Joomla
+* Tray
+* Shopify
+
+It will also detect any platform that includes a generator meta tag inside served markup.
+
